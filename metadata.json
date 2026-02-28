@@ -1,0 +1,5 @@
+{
+  "name": "FitTax BG 2026",
+  "description": "PWA for Bulgarian fitness instructors to calculate taxes and generate reports.",
+  "requestFramePermissions": []
+}
